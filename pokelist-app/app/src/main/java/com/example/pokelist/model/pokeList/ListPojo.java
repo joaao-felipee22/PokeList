@@ -1,4 +1,4 @@
-package com.example.pokelist.model;
+package com.example.pokelist.model.pokeList;
 
 import java.util.ArrayList;
 
